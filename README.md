@@ -38,4 +38,4 @@ Reset Sprite: Click the "Reset" button to reset the sprite to its initial state.
 
 run project-
 Run npm i to install dependencies
-Run npm start and open http://localhost:3000 to see the app
+Run npm start and open the http link to see the app
