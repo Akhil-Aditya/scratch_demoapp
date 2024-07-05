@@ -35,7 +35,21 @@ Delete Commands: Use the "Delete" button to remove commands from the MidArea.
 Replay History: Click the "Replay History" button to replay all executed commands.
 Reset Sprite: Click the "Reset" button to reset the sprite to its initial state.
 
+How to Run the Project:
+
+Open a terminal and run:
+ bash ---  git clone <repository_url>
+
+ bash --- cd <project_directory>
+
+ bash --- npm install
+
+Open your browser and navigate to: --- http://localhost:3000
+
 
 run project-
 Run npm i to install dependencies
 Run npm start and open the http link to see the app
+
+
+
